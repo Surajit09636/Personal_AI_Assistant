@@ -10,7 +10,7 @@ env_vars = dotenv_values(".env")
 # Retrieve values from .env
 Username = env_vars.get("Username")
 Assistantname = env_vars.get("Assistantname")
-GroqAPIKey = env_vars.get("GroqAPIKey")  # ✅ Fixed typo here
+GroqAPIKey = env_vars.get("GroqAPIKey")  
 
 # Ensure API Key is set
 if not GroqAPIKey:
@@ -20,7 +20,7 @@ if not GroqAPIKey:
 client = Groq(api_key=GroqAPIKey)
 
 # System instructions for chatbot
-System = f"""Hello, I am {Username}. You are a very accurate and advanced AI chatbot named {Assistantname} with real-time up-to-date information.
+System = f"""Hello, I am {Username}. You are a very accurate and advanced AI named {Assistantname} with real-time up-to-date information.
 *** Provide Answers In a Professional Way, using full stops, commas, question marks, and proper grammar. ***
 *** Just answer the question from the provided data in a professional way. ***"""
 

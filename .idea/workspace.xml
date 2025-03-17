@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43ff42d2-2c6a-436d-b731-b1887b6f8c40" name="Changes" comment="" />
+    <list default="true" id="43ff42d2-2c6a-436d-b731-b1887b6f8c40" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/Automation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Automation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/RealtimeSearchEngine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/RealtimeSearchEngine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/SpeechToText.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/SpeechToText.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/TextToSpeech.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/TextToSpeech.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ChatLog.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/ChatLog.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/Files/Status.data" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/Files/Status.data" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,18 +21,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Surajit09636"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Surajit09636&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Surajit09636/Personal_AI_Assistant.git",
-    "accountId": "38ad04b6-b171-4f74-914b-e4d482d524a7"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Surajit09636/Personal_AI_Assistant.git&quot;,
+    &quot;accountId&quot;: &quot;38ad04b6-b171-4f74-914b-e4d482d524a7&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -35,9 +43,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Automation.executor": "Run",
     "Python.Chatbot.executor": "Run",
     "Python.Model.executor": "Run",
+    "Python.TextToSpeech.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
