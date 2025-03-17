@@ -1,0 +1,21 @@
+**Simple Java Code: Hello World**
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+```
+**Explanation:**
+
+* `public class HelloWorld` declares a new public class called `HelloWorld`.
+* `public static void main(String[] args)` is the main method where the program starts execution.
+* `System.out.println("Hello, World!");` prints the string "Hello, World!" to the console.
+
+**To Run:**
+
+1. Save this code in a file named `HelloWorld.java`.
+2. Compile the code using `javac HelloWorld.java`.
+3. Run the code using `java HelloWorld`.
+
+This will print "Hello, World!" to the console.
