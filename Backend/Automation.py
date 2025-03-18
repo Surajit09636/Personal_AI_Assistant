@@ -112,7 +112,7 @@ def OpenApp(app, sess=requests.session()):
             if links:
                 webopen(links[0])
             else:
-                print("❌ No valid links found.")
+                print("No valid links found.")
         return True
 
 def CloseApp(app):
