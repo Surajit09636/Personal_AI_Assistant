@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43ff42d2-2c6a-436d-b731-b1887b6f8c40" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/Automation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Automation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/RealtimeSearchEngine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/RealtimeSearchEngine.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/SpeechToText.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/SpeechToText.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/TextToSpeech.py" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/TextToSpeech.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data/ChatLog.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/ChatLog.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/Files/Status.data" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/Files/Status.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/givemeasimplejavacode.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data/givemeasimplejavacode.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/Graphics/chat_box.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/Graphics/close-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/Graphics/home-button.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,17 +39,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Automation.executor": "Run",
-    "Python.Chatbot.executor": "Run",
-    "Python.Model.executor": "Run",
-    "Python.TextToSpeech.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Automation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Chatbot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TextToSpeech.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

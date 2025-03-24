@@ -1,0 +1,64 @@
+**Java Program to Find Non-Repetitive Elements in an Array**
+===========================================================
+
+Here is a simple Java program that finds non-repetitive elements in an array. This program uses a HashMap to count the frequency of each element in the array and then prints out the elements that appear only once.
+
+**NonRepetitiveElements.java**
+```java
+import java.util.HashMap;
+import java.util.Map;
+
+public class NonRepetitiveElements {
+    public static void main(String[] args) {
+        // Initialize an array
+        int[] array = {1, 2, 3, 2, 4, 5, 6, 2, 3};
+
+        // Find non-repetitive elements
+        Map<Integer, Integer> frequencyMap = new HashMap<>();
+        for (int element : array) {
+            frequencyMap.put(element, frequencyMap.getOrDefault(element, 0) + 1);
+        }
+
+        // Print non-repetitive elements
+        System.out.println("Non-repetitive elements:");
+        for (Map.Entry<Integer, Integer> entry : frequencyMap.entrySet()) {
+            if (entry.getValue() == 1) {
+                System.out.println(entry.getKey());
+            }
+        }
+    }
+}
+```
+
+**How the Program Works**
+-------------------------
+
+1.  Initialize an array `array` with some elements.
+2.  Create a HashMap `frequencyMap` to store the frequency of each element in the array.
+3.  Iterate through the array and update the frequency of each element in the `frequencyMap`.
+4.  Iterate through the `frequencyMap` and print out the elements that have a frequency of 1, which are the non-repetitive elements.
+
+**Example Output**
+------------------
+
+```
+Non-repetitive elements:
+4
+5
+6
+```
+
+**Explanation**
+---------------
+
+This program uses a HashMap to efficiently count the frequency of each element in the array. The `getOrDefault` method is used to initialize the frequency of each element to 0 if it is not already present in the map. Then, the program iterates through the map to find the elements with a frequency of 1, which are the non-repetitive elements.
+
+**Time Complexity**
+------------------
+
+The time complexity of this program is O(n), where n is the number of elements in the array. This is because the program iterates through the array once to count the frequency of each element and then iterates through the map once to find the non-repetitive elements.
+
+**Space Complexity**
+-------------------
+
+The space complexity of this program is O(n), where n is the number of unique elements in the array. This is because the program uses a HashMap to store the frequency of each element, and in the worst case, the size of the map can be equal to the number of unique elements in the array.

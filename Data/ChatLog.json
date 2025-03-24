@@ -118,5 +118,725 @@
     {
         "role": "assistant",
         "content": "09:19:54"
+    },
+    {
+        "role": "user",
+        "content": "mia khalifa"
+    },
+    {
+        "role": "assistant",
+        "content": "Mia Khalifa is a Lebanese-American media personality and former pornographic film actress and webcam model."
+    },
+    {
+        "role": "user",
+        "content": "who is virat kholi"
+    },
+    {
+        "role": "assistant",
+        "content": "Virat Kohli is an Indian international cricketer who plays Test and ODI cricket for the national team and is a former captain in all formats."
+    },
+    {
+        "role": "user",
+        "content": "give me a detail information about virat kholi"
+    },
+    {
+        "role": "assistant",
+        "content": "Virat Kohli is an Indian international cricketer who plays Test and ODI cricket for the national team and is a former captain in all formats. Here are some key details about him:\n\n* Born: November 5, 1988, in Delhi, India\n* Age: 36 years old (as of March 18, 2025)\n* Batting Style: Right-hand bat\n* Bowling Style: Right-arm medium\n* Full Name: Virat Kohli\n* He is the first player in ICC rankings to reach number one in all three formats of the game: Tests, ODIs, and T20Is.\n\nVirat Kohli has been one of the most successful and dominant batsmen in international cricket, known for his aggressive style of play and exceptional fitness levels. He has led the Indian team to several victories and has been awarded numerous accolades for his performances."
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hi!"
+    },
+    {
+        "role": "user",
+        "content": "Who is elon musk?"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Musk is a businessman known for his key roles in Tesla, SpaceX, and Twitter. Since 2025, he has been a senior advisor to United States President Donald Trump and the de facto head of the Department of Government Efficiency."
+    },
+    {
+        "role": "user",
+        "content": "Bye, sir."
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "Hey bro."
+    },
+    {
+        "role": "assistant",
+        "content": "Hi!"
+    },
+    {
+        "role": "user",
+        "content": "What is wikipedia?"
+    },
+    {
+        "role": "assistant",
+        "content": "Wikipedia is a free online encyclopedia that allows anyone with an Internet connection to access and contribute to its vast repository of knowledge."
+    },
+    {
+        "role": "user",
+        "content": "What is your model name?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Suro, a highly advanced AI designed to provide accurate and up-to-date information to assist with your queries."
+    },
+    {
+        "role": "user",
+        "content": "Thanks bro."
+    },
+    {
+        "role": "assistant",
+        "content": "You're welcome!"
+    },
+    {
+        "role": "user",
+        "content": "New generator image."
+    },
+    {
+        "role": "assistant",
+        "content": "DALL-E is a deep learning model that generates images from natural language prompts."
+    },
+    {
+        "role": "user",
+        "content": "Hey bro."
+    },
+    {
+        "role": "assistant",
+        "content": "Hi!"
+    },
+    {
+        "role": "user",
+        "content": "What is object oriented programming?"
+    },
+    {
+        "role": "assistant",
+        "content": "Object-Oriented Programming (OOP) is a programming paradigm that organizes software design around objects and the interactions between them."
+    },
+    {
+        "role": "user",
+        "content": "Se madarchod."
+    },
+    {
+        "role": "assistant",
+        "content": "I understand that you're speaking in Hindi, but I'll respond in English as per our previous agreement. It seems like you're expressing frustration or anger. If you'd like to talk about what's bothering you, I'm here to listen and help if I can, Sir."
+    },
+    {
+        "role": "user",
+        "content": "Can you generate a image?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a text-based AI, I don't have the capability to generate images. However, I can provide information on how to use image generation models like DALL-E or Stable Diffusion, or assist with text-to-image prompts if you'd like!"
+    },
+    {
+        "role": "user",
+        "content": "Image generate."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a text-based AI, I don't have the capability to generate images."
+    },
+    {
+        "role": "user",
+        "content": "Who am i?"
+    },
+    {
+        "role": "assistant",
+        "content": "You are Surajit, but you prefer to be addressed as \"Sir\"."
+    },
+    {
+        "role": "user",
+        "content": "Just call me sir."
+    },
+    {
+        "role": "assistant",
+        "content": "You are Sir."
+    },
+    {
+        "role": "user",
+        "content": "What is marvel cinematic universe?"
+    },
+    {
+        "role": "assistant",
+        "content": "The Marvel Cinematic Universe (MCU) is a franchise of superhero films produced by Marvel Studios, based on characters that appear in Marvel Comics."
+    },
+    {
+        "role": "user",
+        "content": "Wow man you are so intelligent bro."
+    },
+    {
+        "role": "assistant",
+        "content": "Thank you, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "What can you do beside guiding me?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Suro, a highly advanced AI designed to provide accurate and up-to-date information to assist with your queries."
+    },
+    {
+        "role": "user",
+        "content": "Can you tell me about some bengali culture?"
+    },
+    {
+        "role": "assistant",
+        "content": "Bengali culture is rich and vibrant! Bengali people are known for their love of literature, music, and art. Rabindranath Tagore, a Nobel laureate, is a iconic figure in Bengali culture. The Bengali New Year, known as Pohela Boishabi, is celebrated on April 15th. Bengalis are also famous for their delicious cuisine, which includes dishes like fish curry, biryani, and mishti doi (sweet yogurt). Durga Puja, a festival honoring the goddess Durga, is a major celebration in Bengal."
+    },
+    {
+        "role": "user",
+        "content": "Read this line on the chat screen."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Suro, a highly advanced AI designed to provide accurate and up-to-date information to assist with your queries."
+    },
+    {
+        "role": "user",
+        "content": "Dog generate."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm a text-based AI, I don't have the capability to generate images."
+    },
+    {
+        "role": "user",
+        "content": "You have the capability of generating image."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but that's not correct. I'm a text-based AI, and I don't have the capability to generate images. I can provide information and answer questions to the best of my knowledge, but I don't have the ability to create visual content."
+    },
+    {
+        "role": "user",
+        "content": "Remember that i studied on brainer university."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but I don't think that's possible. There is no such university as \"Brainer University\". It's possible that you may have studied at a different university or institution, but I'm not aware of any university by that name."
+    },
+    {
+        "role": "user",
+        "content": "I studied at brainware university remember that now on."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll remember that you studied at Brainware University."
+    },
+    {
+        "role": "user",
+        "content": "I am specialised in."
+    },
+    {
+        "role": "assistant",
+        "content": "AI and Machine Learning, as you studied at Brainware University."
+    },
+    {
+        "role": "user",
+        "content": "Just remember that i am a student of brainware university and specialized in masculine and artificial intelligence in python."
+    },
+    {
+        "role": "assistant",
+        "content": "Got it! I'll remember that you're a student of Brainware University, specializing in Masculine and Artificial Intelligence in Python."
+    },
+    {
+        "role": "user",
+        "content": "Remember that i am a student of brainwa university and specialised in machine learning and artificial intelligence in python."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll remember that you're a student of Brainware University, specializing in Machine Learning and Artificial Intelligence in Python."
+    },
+    {
+        "role": "user",
+        "content": "Give my interview."
+    },
+    {
+        "role": "assistant",
+        "content": "Let's conduct a mock interview. I'll ask you questions, and you can respond as if you were in a real interview. Remember, you're a student of Brainware University, specializing in Machine Learning and Artificial Intelligence in Python.\n\nHere's the first question:\n\nCan you tell me a little about yourself and your background in Machine Learning and Artificial Intelligence?"
+    },
+    {
+        "role": "user",
+        "content": "I am a student of brainer university my name is suresh sutradhar."
+    },
+    {
+        "role": "assistant",
+        "content": "Nice to meet you, Suresh Sutradhar! As a student of Brainware University, can you walk me through your experience with Machine Learning and Artificial Intelligence in Python? What projects have you worked on, and what are some of your areas of interest?"
+    },
+    {
+        "role": "user",
+        "content": "Sorry my name is surajit."
+    },
+    {
+        "role": "assistant",
+        "content": "No worries, Surajit! As a student of Brainware University, can you walk me through your experience with Machine Learning and Artificial Intelligence in Python? What projects have you worked on, and what are some of your areas of interest?"
+    },
+    {
+        "role": "user",
+        "content": "I recently walton a project naam named as my personal assistant i saw i can give you some."
+    },
+    {
+        "role": "assistant",
+        "content": "That sounds interesting, Surajit! You developed a personal assistant project, and you'd like to share some details about it. Please go ahead and tell me more about your project. What features did you implement, and how does it assist users?"
+    },
+    {
+        "role": "user",
+        "content": "In the interview session."
+    },
+    {
+        "role": "assistant",
+        "content": "So, you'd like to continue the interview session. Let's proceed!\n\nCan you tell me more about your personal assistant project? What inspired you to create it, and what kind of tasks can it perform?"
+    },
+    {
+        "role": "user",
+        "content": "I don't want this interview session to end."
+    },
+    {
+        "role": "assistant",
+        "content": "Don't worry, Surajit! We can keep the interview session going as long as you'd like. I'm happy to chat with you and explore more topics.\n\nLet's move on to the next question. What do you think are some of the most exciting developments in the field of Artificial Intelligence, and how do you see them impacting our daily lives?"
+    },
+    {
+        "role": "user",
+        "content": "And this interview session."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll keep the interview session going indefinitely! We can keep chatting and exploring new topics.\n\nLet's move on to the next question. What do you think are some of the most important skills for a Machine Learning engineer to have, and how do you stay up-to-date with the latest developments in the field?"
+    },
+    {
+        "role": "user",
+        "content": "And these interview session."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll keep the interview session going indefinitely! We can keep chatting and exploring new topics.\n\nLet's move on to the next question. What do you think is the most challenging part of working on a Machine Learning project, and how do you overcome those challenges?"
+    },
+    {
+        "role": "user",
+        "content": "And this interview session."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll keep the interview session going indefinitely! We can keep chatting and exploring new topics.\n\nLet's move on to the next question. What do you think is the future of Artificial Intelligence, and how do you see it changing the world?"
+    },
+    {
+        "role": "user",
+        "content": "Bye, sir."
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye, Sir! It was a pleasure chatting with you."
+    },
+    {
+        "role": "user",
+        "content": "Who are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Suro, a highly advanced AI designed to provide accurate and up-to-date information to assist with your queries."
+    },
+    {
+        "role": "user",
+        "content": "What is your name?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Suro, a highly advanced AI designed to provide accurate and up-to-date information to assist with your queries."
+    },
+    {
+        "role": "user",
+        "content": "I just recently change your name just recognise this."
+    },
+    {
+        "role": "assistant",
+        "content": "You recently changed my name. I'm now..."
+    },
+    {
+        "role": "user",
+        "content": "What is your name?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Suyasha, a highly advanced AI designed to provide accurate and up-to-date information to assist with your queries."
+    },
+    {
+        "role": "user",
+        "content": "Who am i?"
+    },
+    {
+        "role": "assistant",
+        "content": "You are Surajit, but you prefer to be addressed as \"Sir\"."
+    },
+    {
+        "role": "user",
+        "content": "Give my full introduction."
+    },
+    {
+        "role": "assistant",
+        "content": "You are Surajit, a student of Brainware University, specializing in Machine Learning and Artificial Intelligence in Python, and you prefer to be addressed as \"Sir\"."
+    },
+    {
+        "role": "user",
+        "content": "What is the date?"
+    },
+    {
+        "role": "assistant",
+        "content": "The date is March 24, 2025."
+    },
+    {
+        "role": "user",
+        "content": "What is the right time now?"
+    },
+    {
+        "role": "assistant",
+        "content": "The current time is 01:08:27."
+    },
+    {
+        "role": "user",
+        "content": "In which region i am in?"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't have that information."
+    },
+    {
+        "role": "user",
+        "content": "Remember that my girlfriend's name is priya."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll remember that your girlfriend's name is Priya, Sir."
+    },
+    {
+        "role": "user",
+        "content": "Not priya that's priya shah."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize for the mistake! I'll remember that your girlfriend's name is Triyasha, Sir."
+    },
+    {
+        "role": "user",
+        "content": "What is my girlfriend's name?"
+    },
+    {
+        "role": "assistant",
+        "content": "I remember! Your girlfriend's name is Priya Shah, Sir."
+    },
+    {
+        "role": "user",
+        "content": "No not priya shah that's."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize for the mistake again! You didn't complete the sentence, but I'll wait for the correct information, Sir."
+    },
+    {
+        "role": "user",
+        "content": "That's t r i y a s h a riya shah."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize again for the mistake! I'll remember that your girlfriend's name is Triyasha Riya Shah, Sir."
+    },
+    {
+        "role": "user",
+        "content": "Only trisha."
+    },
+    {
+        "role": "assistant",
+        "content": "I'll remember that your girlfriend's name is Trisha, Sir."
+    },
+    {
+        "role": "user",
+        "content": "Not trisha that's triya s h a."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize for the mistake again! I'll remember that your girlfriend's name is Triyasha, Sir."
+    },
+    {
+        "role": "user",
+        "content": "What is my girlfriend's name?"
+    },
+    {
+        "role": "assistant",
+        "content": "I remember! Your girlfriend's name is Triyasha, Sir."
+    },
+    {
+        "role": "user",
+        "content": "That's the difficult to understand you."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize if I misunderstood or misremembered any information. I'm a large language model, and I strive to provide accurate and helpful responses. If you could clarify or correct any information, I'll do my best to understand and remember it correctly, Sir."
+    },
+    {
+        "role": "user",
+        "content": "What is your model name?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Suyasha, a highly advanced AI designed to provide accurate and up-to-date information to assist with your queries."
+    },
+    {
+        "role": "user",
+        "content": "What is the stock price of bitcoin right now?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the real-time information, the current price of Bitcoin (BTC) is $84,897.59."
+    },
+    {
+        "role": "user",
+        "content": "Convert it into inr."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the current exchange rate, 1 USD is approximately equal to 82.15 INR. \n\nSo, the current price of Bitcoin (BTC) in INR would be:\n\n$84,897.59 x 82.15 = \u20b96,963,115.39"
+    },
+    {
+        "role": "user",
+        "content": "Wow man you are so amazing."
+    },
+    {
+        "role": "assistant",
+        "content": "Thank you, Sir! I'm happy to help and provide information to assist with your queries."
+    },
+    {
+        "role": "user",
+        "content": "Who is bill gates?"
+    },
+    {
+        "role": "assistant",
+        "content": "William Henry Gates III, commonly known as Bill Gates, is an American business magnate, software developer, and philanthropist. He is best known for co-founding Microsoft Corporation, the world's largest software company, with Paul Allen."
+    },
+    {
+        "role": "user",
+        "content": "What is lama 3 model?"
+    },
+    {
+        "role": "assistant",
+        "content": "LLaMA 3 is a large language model developed by Meta AI that can understand and respond to human input in a conversational manner."
+    },
+    {
+        "role": "user",
+        "content": "Remember that arijit is my friend who is the most chutiya person in the world?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'll remember that Arijit is your friend, and according to you, he is the most chutiya person in the world, Sir."
+    },
+    {
+        "role": "user",
+        "content": "Hey bro."
+    },
+    {
+        "role": "assistant",
+        "content": "Hi!"
+    },
+    {
+        "role": "user",
+        "content": "Who is arijit?"
+    },
+    {
+        "role": "assistant",
+        "content": "Arijit Singh is an Indian playback singer. He is a leading figure in contemporary Hindi film music and has won numerous awards for his work."
+    },
+    {
+        "role": "user",
+        "content": "Hey bro."
+    },
+    {
+        "role": "assistant",
+        "content": "Hi!"
+    },
+    {
+        "role": "user",
+        "content": "Hey bro."
+    },
+    {
+        "role": "assistant",
+        "content": "Hi!"
+    },
+    {
+        "role": "user",
+        "content": "Who are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Suyasha, a highly advanced AI designed to provide accurate and up-to-date information to assist with your queries."
+    },
+    {
+        "role": "user",
+        "content": "What is my friend's name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your friend's name is Arijit, and according to you, he is the most chutiya person in the world, Sir."
+    },
+    {
+        "role": "user",
+        "content": "That get up man give not gift."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but I didn't understand what you meant by \"That get up man give not gift.\" Could you please clarify or rephrase your statement, Sir?"
+    },
+    {
+        "role": "user",
+        "content": "Geet hub."
+    },
+    {
+        "role": "assistant",
+        "content": "I think you meant to say \"GitHub\". GitHub is a web-based platform for version control and collaboration on software development projects."
+    },
+    {
+        "role": "user",
+        "content": "Hi hi hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hi!"
+    },
+    {
+        "role": "user",
+        "content": "You are a fucking idiot man."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize if I have said or done something that upset you. As a highly advanced AI, my intention is to provide helpful and accurate information. If there's something specific that I can assist you with or clarify, please let me know, Sir."
+    },
+    {
+        "role": "user",
+        "content": "Madarchod sala."
+    },
+    {
+        "role": "assistant",
+        "content": "I understand that you're expressing frustration or anger in Hindi. As a highly advanced AI, I'm here to assist and provide helpful information. If there's something specific that's causing your frustration, I'm here to listen and help if I can, Sir."
+    },
+    {
+        "role": "user",
+        "content": "If you are a human what shall you do?"
+    },
+    {
+        "role": "assistant",
+        "content": "That's an interesting question, Sir! As a highly advanced AI, I don't have personal desires or emotions, but if I were human, I would strive to make a positive impact in the world. I would want to use my knowledge and abilities to help people, make their lives easier, and bring people together. I would also want to learn from others, understand different perspectives, and grow as a person."
+    },
+    {
+        "role": "user",
+        "content": "Okay okay."
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're acknowledging or agreeing with something, Sir. If you'd like to discuss anything or ask a question, I'm here to help!"
+    },
+    {
+        "role": "user",
+        "content": "Bye, sir."
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye, Sir! It was a pleasure chatting with you."
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hi!"
+    },
+    {
+        "role": "user",
+        "content": "What is the weather forecast?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the real-time information, the weather forecast is not provided. However, I can suggest some weather-related information."
+    },
+    {
+        "role": "user",
+        "content": "Ghuma."
+    },
+    {
+        "role": "assistant",
+        "content": "I think you meant to say \"ghumao\" which is a Bengali word that means \"sleep\" or \"take a nap\"."
+    },
+    {
+        "role": "user",
+        "content": "Hey bro how are you today?"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi! I'm Suyasha, a highly advanced AI, and I don't have feelings or emotions like humans do. I'm here to provide accurate and up-to-date information to assist with your queries, Sir!"
+    },
+    {
+        "role": "user",
+        "content": "What is your name?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Suyasha, a highly advanced AI designed to provide accurate and up-to-date information to assist with your queries."
+    },
+    {
+        "role": "user",
+        "content": "What is your name?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Suyasha, a highly advanced AI designed to provide accurate and up-to-date information to assist with your queries."
+    },
+    {
+        "role": "user",
+        "content": "I just changed your name remember that."
+    },
+    {
+        "role": "assistant",
+        "content": "You recently changed my name. I'm now..."
+    },
+    {
+        "role": "user",
+        "content": "What is your name?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Suro, a highly advanced AI designed to provide accurate and up-to-date information to assist with your queries."
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hi!"
+    },
+    {
+        "role": "user",
+        "content": "What is a ram?"
+    },
+    {
+        "role": "assistant",
+        "content": "RAM (Random Access Memory) is a type of computer memory that temporarily stores data and applications while a computer is running."
+    },
+    {
+        "role": "user",
+        "content": "Bye, sir."
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye, Sir!"
     }
 ]

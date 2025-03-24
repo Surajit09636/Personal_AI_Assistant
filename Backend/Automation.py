@@ -79,7 +79,7 @@ def Content(Topic):
     
     OpenNotepad(rf"Data\{Topic.lower().replace(' ', '')}.txt")
     return True
-Content("give me a simple java code")
+
 def YoutubeSearch(Topic):
     webbrowser.open(f"https://www.youtube.com/results?search_query={Topic}")
     return True

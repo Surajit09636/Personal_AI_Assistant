@@ -1,0 +1,16 @@
+Here is a sample email about taking a sick leave:
+
+Subject: Notification of Sick Leave
+
+Dear [Supervisor's Name],
+
+I am writing to inform you that I will be taking a sick leave due to [briefly mention the reason for your absence, e.g. illness, doctor's appointment, etc.]. I am currently not feeling well and need to take some time to recover.
+
+I will be unavailable from [start date] to [end date] and will do my best to catch up on any missed work as soon as I am feeling better. If there are any urgent matters that need my attention in the meantime, please let me know and I will do my best to address them.
+
+I apologize for any inconvenience this may cause and appreciate your understanding in this matter. If you need any further information or documentation from me, please don't hesitate to ask.
+
+Thank you for your support and I look forward to returning to work as soon as possible.
+
+Sincerely,
+[Your Name]
